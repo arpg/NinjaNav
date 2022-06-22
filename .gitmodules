@@ -1,0 +1,18 @@
+[submodule "carplanner_tools"]
+	path = carplanner_tools
+	url = git@github.com:arpg/carplanner_tools
+[submodule "carplanner_msgs"]
+	path = carplanner_msgs
+	url = git@github.com:arpg/carplanner_msgs
+[submodule "carplanner"]
+	path = carplanner
+	url = git@github.com:arpg/carplanner
+[submodule "mochagui"]
+	path = mochagui
+	url = git@github.com:arpg/mochagui
+[submodule "infinitam"]
+	path = infinitam
+	url = git@github.com:arpg/infinitam
+[submodule "bullet3"]
+	path = bullet3
+	url = git@github.com:arpg/bullet3
