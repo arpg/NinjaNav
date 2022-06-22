@@ -16,3 +16,6 @@
 [submodule "bullet3"]
 	path = bullet3
 	url = git@github.com:arpg/bullet3
+[submodule "ninjacar"]
+	path = ninjacar
+	url = git@github.com:arpg/ninja_car_driving_control
